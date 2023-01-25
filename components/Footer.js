@@ -1,6 +1,6 @@
 export default function Footer() {
     return(
-        <div className="bg-[#242324] min-h-[200px] py-10 px-6 lg:py-14 lg:px-20 flex flex-col justify-between lg:items-center lg:flex-row">
+        <div className="bg-[#242324] min-h-[200px] py-10 px-6 lg:py-14 lg:px-20 flex flex-wrap flex-col justify-between lg:items-center lg:flex-row">
             <div className="max-w-[450px] mr-8">
                 <a href="#"><h1 className="logo font-bold text-3xl overflow-hidden text-[#ec8700] cursor-pointer">FITGROW</h1></a>
                 <p className="text-[#F4F8EB] text-sm my-6">Lorem vitae ut augue auctor faucibus eget eget ut libero. Elementum purus et arcu massa dictum condimentum. Augue scelerisque iaculis orci ut habitant laoreet. Iaculis tristique.</p>
