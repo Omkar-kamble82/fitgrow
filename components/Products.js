@@ -16,7 +16,7 @@ export default function Products(){
                 {products.map((product,index) => {
                     return(
                         <div key={product.id}>
-                            { width<680 && width>480 ? 
+                            { width<950 && width>480 ? 
                             <>
                             {
                                 <div key={product.id} className="flex h-[300px] w-[500px] mx-2 my-3 p-4 bg-black text-white overflow-hidden md:m-4 md:w-[450px]">
