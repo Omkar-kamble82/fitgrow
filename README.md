@@ -1,4 +1,4 @@
-<h1>Tesla ui Clone</h1>
+<h1>Fit-Grow</h1>
 <p><a href="https://fitgrow.vercel.app">Fitgrow</a> is a gym landing page frontend project.</p>
 <p>If you like, consider giving the project a star.</p>
 <br/>
